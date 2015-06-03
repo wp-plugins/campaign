@@ -1,8 +1,8 @@
 ===Campaign===
 Contributors: (infoway)
 Tags: campaign
-Requires at least: 3.0.1
-Tested up to: 3.9
+Requires at least: 4.0
+Tested up to: 4.1
 Campaign allow user to manage campaign and funding. donate section for each campaign.
 ==Description==
 Campaign allows wordpress site to create full campaign and fund making features with registration,login,campaign listing page,campaign details page.user can manage their account as well as user can create the campaign ans set it to live for the site.Campaign details page have the donate options throuh paypal.
