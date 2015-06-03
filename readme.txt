@@ -1,5 +1,5 @@
 ===Campaign===
-Contributors: (rayan)
+Contributors: (infoway)
 Tags: campaign
 Requires at least: 3.0.1
 Tested up to: 3.9
