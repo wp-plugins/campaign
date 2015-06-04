@@ -1,5 +1,5 @@
 ===Campaign===
-Contributors: (infoway)
+Contributors: (iwcontribution)
 Tags: campaign
 Requires at least: 4.0
 Tested up to: 4.1
